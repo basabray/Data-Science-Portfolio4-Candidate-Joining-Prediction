@@ -3,7 +3,7 @@
 
 ***Repository containing portfolio of data science project completed by for academic and self learning purpose, and presented in the form of IPYNB Files.***
 
-![LCO2](https://user-images.githubusercontent.com/62828231/115129583-f5422c00-a004-11eb-83ee-ec699a22b653.jpg)
+![LCO2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fe-courses4you.com%2Fcourse%2Fcertificate-in-employee-onboarding%2F&psig=AOvVaw3wdnYna1hLi0hALVyi1zaN&ust=1619896966393000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCE-M_YpvACFQAAAAAdAAAAABAK)
 
 ***
 ### Table Of Contents:
